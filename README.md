@@ -178,7 +178,7 @@ Process Optimization
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/francisco-bracamonte-bravo-251908205)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-bracamonte-bravo-251908205)
 [![Email](https://img.shields.io/badge/Email-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:franbbbm@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visitar-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://cv-francisco-rho.vercel.app)
 
